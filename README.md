@@ -6,4 +6,4 @@
 - Epsilon-greedy with linear decay
 - 10 hours training, over 30 mean score per life
 ---
-<video src='videos/rl-video-episode-25.mp4' width=180/>
+<video src='https://github.com/alekhon/rl-atari/blob/master/videos/rl-video-episode-25.mp4' width=180/>
